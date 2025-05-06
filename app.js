@@ -310,7 +310,7 @@ renderTestimonials();
       loader.style.transition = 'opacity 0.5s ease, visibility 0.5s ease';
       loader.style.opacity = '0';
       loader.style.visibility = 'hidden';
-    }, 2000); // 2000 milliseconds = 2 seconds
+    }, 1500); // 1500 milliseconds = 2 seconds
   });
   
   
